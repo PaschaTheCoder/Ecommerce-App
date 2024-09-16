@@ -1,0 +1,143 @@
+#hh{
+    font-size: 40px;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: 1px;
+    font-weight: bolder;
+}
+#log{
+    width: 440px;
+    height: 540px;
+    margin-top: 70px;
+    /* position: absolute; */
+}
+#button1{
+    height:35px ;
+    width: 120px;
+    margin-top: 30px;
+    position: absolute;
+    border-radius: 8px;
+    color: white;
+    background-color: black;
+    border: none;
+    margin-left: 280px;
+}
+#button1:hover{
+    cursor: pointer;
+}
+#button2{
+    height:35px ;
+    width: 120px;
+    margin-top: 30px;
+    position: absolute;
+    border-radius: 8px;
+    color: black;
+    background-color: white;
+    border:   solid 2px rgb(184, 180, 180);
+    margin-left: 480px;
+}
+#button2:hover{
+    cursor: pointer;
+}
+#sign{
+    position: absolute;
+    margin-left: 540px;
+    margin-top: -480px;
+    font-size: 30px;
+}
+#button3{
+    position: absolute;
+    height: 40px;
+    width: 420px;
+    margin-top: 190px;
+    margin-left: 102px;
+    /* font-weight: bold; */
+    background-color: white;
+    border-radius: 7px;
+    font-size: 20px;
+    border: 1.5px solid rgb(184, 180, 180);
+}
+#button3:hover{
+    cursor: pointer;
+}
+#googleicon{
+    height: 20px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 180px;
+}
+.new7{
+border: 1px solid #a3a1a1;
+width:170px;
+margin-top: -340px;
+margin-left: 545px;
+position: absolute;
+}
+#or{
+    position: absolute;
+    margin-left: 725px;
+    margin-top: -347px;
+    color: #a3a1a1;
+}
+.new8{
+    border: 1px solid #a3a1a1;
+    width:195px;
+    margin-top: -340px;
+    margin-left: 760px;
+    position: absolute;
+    }
+#username{
+    margin-left: 540px;
+    position: absolute;
+    margin-top: -290px;
+   
+}
+#userinput1{
+    height: 30px;
+    width: 420px;
+    margin-left: 540px;
+    margin-top: -260px;
+    position: absolute;
+    border-radius: 7px;
+    border: 1.5px solid rgb(184, 180, 180);
+}
+#username1{
+    margin-left: 540px;
+    position: absolute;
+    margin-top: -210px;
+}
+#userinput2{
+    height: 30px;
+    width: 420px;
+    margin-left: 540px;
+    margin-top: -180px;
+    position: absolute;
+    border-radius: 7px;
+    border: 1.5px solid rgb(184, 180, 180);
+}
+#button4{
+    position: absolute;
+    height:35px ;
+    width: 120px;
+    margin-top: -100px;
+    margin-left: 540px;
+    /* font-weight: bold; */
+    background-color:black;
+    border-radius: 7px;
+    color: white;
+    border: none;
+}
+#button4:hover{
+    cursor: pointer;
+}
+#account{
+    position: absolute;
+    margin-left:540px ;
+    margin-top: -55px;
+    
+}
+#sin{
+    position: absolute;
+    margin-left:710px ;
+    margin-top: -55px;
+}

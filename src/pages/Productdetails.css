@@ -1,0 +1,313 @@
+.colorBorder{
+    border: 2px dashed yellow !important;
+    background-color: red;
+
+}
+
+#productdetail{
+    margin-left: 70px;
+    margin-top: 190px;
+    position: relative;
+    /* position: absolute; */
+}
+#shirt1121{
+    position: relative;
+    height: 400px;
+    width: 320px;
+    left: -550px;
+    top: 55px;
+}
+#localt{
+    height: 159px;
+    width: 130px;
+    margin-left:-520px;
+    margin-top: 10px;
+    position: absolute;
+}
+#localt1{
+    height: 159px;
+    width: 130px;
+    margin-left:-520px;
+    margin-top: 170px;
+    position: absolute;
+}
+#localt2{
+    height: 159px;
+    width: 130px;
+    margin-left:-520px;
+    margin-top: 330px;
+    position: absolute;
+}
+#onelife{
+    font-weight: bolder;
+    margin-left:690px;
+    margin-top: -380px;
+    font-size: 42px;
+}
+#localt3{
+    height:55px ;
+    width: 290px;
+    margin-left: 590px;
+    margin-top: -30px;
+    font-size: 40px;
+}
+.productprice{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 590px;
+    margin-top: -20px;
+}
+.productp{
+    margin-top: -24px;
+    margin-left: 55px;
+    font-size: 22px;
+    color: #a3a1a1;
+}
+.productd{
+    border: 1px solid #a3a1a1;
+      width:44px;
+      margin-top: -13px;
+      margin-left: 55px;
+}
+.b40{
+    position: absolute;
+      height: 25px;
+      width: 55px;
+      margin-top: -15px;
+      margin-left: 115px;
+      border-radius: 15px;
+      color: red;
+      background-color: rgb(243, 218, 218);
+      border: none;
+}
+.b40:hover{
+    cursor: pointer;
+}
+#productpara{
+    margin-left: 590px;
+    margin-top: 10px;
+    color: rgb(105, 100, 100);
+}
+.producthr{
+    border: 1px solid rgb(226, 224, 224);
+      width:570px;
+      margin-top: 10px;
+      margin-left: 590px;
+}
+#selectcolor{
+    margin-left: 590px;
+    color: rgb(105, 100, 100);
+    font-size: 20px;
+}
+.sandy{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: rgb(121, 99, 76);
+    border: none;
+    margin-left: 590px;
+    margin-top: -10px;
+}
+.sandy:hover{
+    cursor: pointer;
+}
+.green{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    margin-left: 70px;
+    background-color:rgb(11, 77, 70);
+    border: none;
+    margin-left: 15px;
+    margin-top: -10px; 
+}
+.green:hover{
+    cursor: pointer;
+}
+.blue{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    margin-left: 50px;
+    background-color:rgb(51, 51, 83);
+    border: none;
+    margin-left: 15px;
+    margin-top: -10px; 
+}
+.blue:hover{
+    cursor: pointer;
+}
+
+.producthr1{
+    border: 1px solid rgb(226, 224, 224);
+      width:570px;
+      margin-top: 15px;
+      margin-left: 590px;
+}
+#choosesize{
+    margin-left: 590px;
+    color: rgb(105, 100, 100);
+    font-size: 20px;
+}
+.small{
+    background-color:  #f0f0f0;
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    border: none;
+    color: rgb(105, 100, 100);
+    margin-left: 590px;
+    margin-top: -10px;
+}
+.small:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.Medium{
+    background-color:  #f0f0f0;
+    height: 40px;
+    width: 95px;
+    border-radius: 20px;
+    border: none;
+    color: rgb(105, 100, 100);
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.Medium:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.Large{
+    background-color:  #f0f0f0;
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    border: none;
+    color: rgb(105, 100, 100);
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.Large:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.X-Large{
+    background-color:  #f0f0f0;
+    height: 40px;
+    width: 95px;
+    border-radius: 20px;
+    border: none;
+    color: rgb(105, 100, 100);
+    margin-left: 10px;
+    margin-top: -10px;
+    
+}
+.X-Large:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.producthr2{
+    border: 1px solid rgb(226, 224, 224);
+      width:570px;
+      margin-top: 15px;
+      margin-left: 590px;
+}
+#increment1{
+    height:35px ;
+    width: 130px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 590px;
+    margin-top: 20px;
+}
+#Addc{
+    height: 40px;
+    width: 430px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 790px;
+    margin-top: -40px;
+    position: absolute;
+}
+#Addc:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+#productdetail{
+    font-size: 25px;
+    margin-top: 45px;
+}
+.producthr3{
+    border: 1.5px solid black;
+      width:1110px;
+      margin-top: 15px;
+      margin-left: 70px;
+}
+#sleek{
+    margin-left: 70px;
+    margin-top: 25px;
+    font-size: 20px;
+    word-spacing: 7px;
+}
+#lis{
+    margin-left: 50px;
+    font-size: 20px;
+    word-spacing: 7px;
+}
+.producthr4{
+    border: 1.5px solid black;
+      width:1120px;
+      margin-top: 15px;
+      margin-left: 70px;
+}
+#calculation1{
+    /* position: relative; */
+    height: 40px;
+    width: 130px;
+    background-color:  #f0f0f0;
+    margin-left: 620px;
+    margin-top: 20px;
+    border-radius: 35px;
+
+}
+#buttong1{
+    position: absolute;
+    border: none;
+    margin-top: 7px;
+    margin-left: 20px;
+    font-size: 25px;
+}
+#buttongg1{
+    position: absolute;
+    border: none;
+    margin-top: 5px;
+    margin-left: 90px;
+    font-size: 25px;
+}
+#span1{
+    margin-left: 60px;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 5px;
+}
+#heading{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+#prating{
+    font-size: 30px;
+    margin-left: 800px;
+    margin-top: -20px;
+}
+.productprice{
+    margin-left: 650px;
+    margin-top: -60px;
+}

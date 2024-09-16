@@ -1,0 +1,72 @@
+.navbar1 a{
+    text-decoration: none;
+    font-size: 20px;
+    color:black;
+    padding: 10px 10px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+   
+  }
+  .navbar1{
+    background-color: white;
+  
+  }
+  #hy{
+    float: left;
+    margin-left: 70px;
+    text-decoration: none;
+    color: black;
+  }
+  #s1{
+    /* margin-right: 190px; */
+    float: left;
+    margin-top: 35px;
+  }
+  .gm{
+    height: 40px;
+    width: 320px;
+    border: 2px;
+    border-radius: 25px ;
+    margin-left: 40px;
+    margin-right: 30px;
+    font-size: 20px;
+    float: left;
+    margin-top: 20px;
+    background-color:  #f0f0f0;
+  }
+  #cart{
+    height: 30px;
+    width: 30px;
+    margin-top: -5px;
+    margin-left: -2rem;
+    position: absolute;
+  }
+  #user{
+    height: 25px;
+    width: 25px;
+    top: 1.7rem;
+    margin-left: 2rem;
+    margin-bottom: 3px;
+    position: relative;
+    font-size: 20px;
+  }
+
+#sign{
+  margin-top:10px;
+  height: 100px;
+  position: absolute;
+}
+
+#sss{
+
+  position: absolute;
+  margin-top: -5px;
+  margin-left: -20px;
+}
+
+
+
+
+
+  

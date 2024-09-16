@@ -1,0 +1,22 @@
+#ncard{
+    margin-left: 520px;
+}
+#imgs{
+    height:220px ;
+    width: 240px;
+}
+.p8{
+    font-size: 25px;
+    color: black;
+} 
+#ratii{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+#product{
+    margin-top: -15px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}

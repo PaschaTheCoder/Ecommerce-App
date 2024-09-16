@@ -1,0 +1,27 @@
+.t-shirt10{
+    height: 280px;
+    width: 280px;
+    margin-left: 30px;
+    display: inline-flex;
+}
+.p80{
+    margin-top: 280px;
+    margin-left: -270px;
+}
+.starimg20{
+    height: 30px;
+    width: 140px;
+    position: absolute;
+    margin-top: 300px;
+}
+.paisa10{
+    margin-top: 340px;
+    margin-left: -70px;
+}
+#tp{
+    margin-top: 150px;
+    margin-left: 460px;
+    font-size: 45px;
+    
+}
+

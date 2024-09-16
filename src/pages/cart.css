@@ -1,0 +1,254 @@
+#yourcart{
+    position: absolute;
+    margin-left: 4rem;
+    margin-top: 3rem;
+    font-weight: bolder;
+}
+#outerdiv{
+    height: 32rem;
+    width: 38rem;
+    margin-top: 7rem;
+    border-radius: 20px;
+    border: 2px solid  #f0f0f0;
+    margin-left: 40px;
+}
+
+.outerdivChild{
+    margin-top: 1rem
+}
+
+#img35{
+    height: 8rem;
+    width: 8rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+#img33{
+    height: 8rem;
+    width: 8rem;
+    position: absolute;
+    margin-top: 12rem;
+    margin-left: -8rem;
+}
+#img34{
+    height: 8rem;
+    width: 8rem;
+    position: absolute;
+    margin-top: 23rem;
+    margin-left: -8rem;
+}
+#line{
+   background-color:  #f0f0f0;
+   height: 1px;
+   width: 35rem;
+   margin-left: 1.3rem;
+   margin-top: 1.4rem;
+}
+#line1{
+    background-color:  #f0f0f0;
+    height: 1px;
+    width: 35rem;
+    margin-left: 1.3rem;
+    margin-top: 11rem;
+}
+#chs{
+    margin-left: 10rem;
+    margin-top: -20.5rem;
+}
+#chs1{
+margin-top: 8rem;
+position: absolute;
+margin-left: 10rem;
+}
+#chs2{
+    margin-top: 20.5rem;
+    margin-left: 10rem;
+}
+#size{
+    margin-top: 1rem;
+    margin-left: 10rem;
+    position: absolute;
+    
+}
+#color{
+    margin-top: 2rem; 
+    margin-left: 10rem;
+    position: absolute;
+}
+#dollar{
+    position: absolute;
+    margin-left: 10rem;
+    margin-top: -0.5rem;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+#size1{
+    margin-top: 4.5rem;
+    margin-left: 10rem;
+    position: absolute;
+    
+}
+#color1{
+    margin-top: 6rem; 
+    margin-left: 10rem;
+    position: absolute;
+}
+#dollar1{
+    margin-left: 10rem;
+    margin-top: 8rem;
+    font-weight: bold;
+    font-size: 1.3rem;
+    position: absolute;
+}
+#size2{
+    margin-top: 16rem;
+    margin-left: 10rem;
+    position: absolute;
+    
+}
+#color2{
+    margin-top: 17.5rem; 
+    margin-left: 10rem;
+    position: absolute;
+}
+#dollar2{
+    margin-left: 10rem;
+    margin-top: 19rem;
+    font-weight: bold;
+    font-size: 1.3rem;
+    position: absolute;
+}
+#del{
+    height: 1.5rem;
+    margin-top:-3rem;
+    position: absolute;
+    margin-left: 33rem;
+}
+#del1{
+    height: 1.5rem;
+    margin-top: 2rem;
+    position: absolute;
+    margin-left: 33rem;
+}
+#del2{
+    height: 1.5rem;
+    margin-top: 13.5rem;
+    position: absolute;
+    margin-left: 33rem;
+}
+#calculation2{
+    height: 40px;
+    width: 130px;
+    background-color:  #f0f0f0;
+    margin-left: 450px;
+    margin-top: 2rem;
+    border-radius: 35px;
+}
+#calculation3{
+    height: 40px;
+    width: 130px;
+    background-color:  #f0f0f0;
+    margin-left: 450px;
+    margin-top: 125px;
+    border-radius: 35px;
+}
+#calculation4{
+    height: 40px;
+    width: 130px;
+    background-color:  #f0f0f0;
+    margin-left: 450px;
+    margin-top: 18rem;
+    border-radius: 35px;
+}
+#summarydiv{
+    height: 24rem;
+    width: 25rem;
+    border-radius: 20px;
+    border: 2px solid #f0f0f0;
+    margin-left: 43rem;
+    margin-top: -32rem;
+}
+#orders{
+    margin-left: 20px;
+}
+#subtotal{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#rupee{
+    margin-top: -40px;
+    position: absolute;
+    margin-left: 320px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#dis{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#rupee1{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 320px;
+    margin-top: -40px;
+}
+#dely{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#rupee2{
+    font-size: 20px;
+    margin-left: 320px;
+    margin-top: -40px;
+    font-weight: bold;
+}
+#underline{
+    background-color:  #f0f0f0;
+    height: 1.5px;
+    width: 22rem;
+    margin-left: 20px;
+   
+}
+#total{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#rupee3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 320px;
+    margin-top: -40px;
+}
+#memo{
+    height: 30px;
+    width: 230px;
+    border-radius: 25px;
+    border: none;
+    background-color: #f0f0f0;
+    margin-left: 20px;
+}
+#app{
+    height: 30px;
+    width: 90px;
+    border-radius: 25px;
+    position: absolute;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-left: 15px;
+}
+#go1{
+    position: absolute;
+    height: 40px;
+    width: 340px;
+    border-radius: 25px;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    margin-left: -230px;
+}
+.stay{
+    margin-top: 10rem;
+}
